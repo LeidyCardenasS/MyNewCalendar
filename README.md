@@ -1,7 +1,10 @@
 # Work Day Scheduler Starter Code
 //This App is a simple calendar application that allows a user to save events for each hour of a typical working day (9am–5pm). This app run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-URL:
+URL: https://leidycardenass.github.io/MyNewCalendar/
+
+<img width="1433" alt="Screenshot 2023-08-24 at 7 49 53 PM" src="https://github.com/LeidyCardenasS/MyNewCalendar/assets/139012532/5f191c6f-8c67-4597-af96-0869c1ce5f30">
+
 
 //The project was carried out with the following acceptance criteria
 GIVEN I am using a daily planner to create a schedule
